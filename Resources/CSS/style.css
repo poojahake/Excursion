@@ -1,0 +1,28 @@
+.page{
+    text-align:center;
+    background-color:black;
+    padding: 5px;
+    
+}
+.page h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:white;
+
+}
+h3 a{
+    color: aquamarine;
+    text-decoration: none;
+
+}
+h2{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color:white;
+    font-size: 42px;
+}
+h3{
+    color:gray;
+    font-size: 21px;
+    
+}
